@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.about-bg{
+    background-image: url(/Assets/pexels-cottonbro-studio-6811331.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-height: 70vh;
+    box-shadow: inset 0 0 0 990px rgba(79, 102, 122, 0.7);
+}
+.About{
+    box-shadow: 0px 0px 15px rgb(218, 214, 214);
+    border-radius: 10px !important;
+}
+.About2{
+    box-shadow: 0px 0px 15px rgb(218, 214, 214);
+   
+    transition: 1s;
+}
+.About2:hover{
+    transform: scale(0.9);
+}
+.about-bg-video{
+    background-image: url(/Assets/pexels-cottonbro-studio-6811331.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-height: 45vh;
+    box-shadow: inset 0 0 0 990px rgba(79, 102, 122, 0.7);
+}
+.card-shadow2 {
+    box-shadow: 0px 0px 17px rgb(228, 228, 228);
+    transition: 1s;
+}
+
+.card-shadow2:hover {
+    transform: scale(1.1);
+
+}
