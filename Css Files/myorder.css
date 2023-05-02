@@ -9,3 +9,12 @@
     align-items: center;
     box-shadow: inset 0 0 0 990px rgba(79, 102, 122, 0.7);
 }
+/* @media only screen and (min-width: 300px) and (max-width:440px){
+    .table-adjustment2{
+       padding: 0% !important;
+       margin: 0% !important ;
+    }
+} */
+.table-adjustment th td{
+    border-collapse:collapse;
+}
