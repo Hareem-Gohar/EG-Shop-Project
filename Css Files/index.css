@@ -135,6 +135,9 @@
         left: 0%;
         top: 32%;
     }
+    .width-logo{
+        width: 40% !important;
+    }
 
 }
 /* contact */
